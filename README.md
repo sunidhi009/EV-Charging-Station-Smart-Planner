@@ -39,8 +39,7 @@ EVChargerPlannerApp/
 ├── images/          # Dashboard and map screenshots
 ├── requirements.txt # All Python dependencies
 ├── style.css        # Custom UI styling
-├── README.md        # Project description
-└── other assets     # Optional utilities or data
+└── README.md        # Project description
 ````
 ---
 
