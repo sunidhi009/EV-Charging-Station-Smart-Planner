@@ -1,0 +1,41 @@
+/* style.css */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #00ffcc;
+    font-weight: bold;
+}
+
+.stButton>button {
+    background-color: #00ffcc;
+    color: #000000;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #00ddaa;
+}
+
+.stFileUploader {
+    border: 2px dashed #00ffcc !important;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+    margin: 2em 0;
+}
+
+a {
+    color: #00ffcc;
+}
