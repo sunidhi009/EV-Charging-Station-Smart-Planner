@@ -45,11 +45,12 @@ EVChargerPlannerApp/
 
 ## 🛠️ Tech Stack
 
-- **Python**
-- **Streamlit**
-- **Pandas**
-- **Folium**
-- **Altair/Plotly**
+- **Python: Backend logic**
+- **Streamlit: Web UI**
+- **Pandas: Data processing**
+- **Folium: Map visualizations**
+- **Altair/Matplotlib: Bar charts**
+- **Excel (xlsxwriter): Report generation**
 - **HTML/CSS (for design)**
 
 ---
