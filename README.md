@@ -77,20 +77,15 @@ Open your browser at http://localhost:8501 to access the app.
 
 ### Step-by-Step Use
 
-1. Upload Excel File
--  Ensure your file includes columns: Location, Latitude, Longitude, Area, Vehicles, Footfall.
+1. Upload Excel File: Ensure your file includes columns: Location, Latitude, Longitude, Area, Vehicles, Footfall.
 
-2. Adjust Weights
--  Use sliders to set the importance of each factor.
+2. Adjust Weights: Use sliders to set the importance of each factor.
 
-3. Visualize Results
--  View best locations on an interactive map with clickable markers.
+3. Visualize Results: View best locations on an interactive map with clickable markers.
 
-4. Compare Scores
--  A bar chart shows a ranked comparison of scores.
+4. Compare Scores: A bar chart shows a ranked comparison of scores.
 
-5. Download Excel Report
--  Export the top-N ranked locations for documentation or planning use.
+5. Download Excel Report: Export the top-N ranked locations for documentation or planning use.
 
 ---
 
