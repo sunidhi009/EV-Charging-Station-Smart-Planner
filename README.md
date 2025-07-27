@@ -50,8 +50,8 @@ EVChargerPlannerApp/
 - **Pandas: Data processing**
 - **Folium: Map visualizations**
 - **Altair/Matplotlib: Bar charts**
-- **Excel (xlsxwriter): Report generation**
 - **HTML/CSS (for design)**
+- **Excel (xlsxwriter): Report generation**
 
 ---
 
