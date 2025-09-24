@@ -21,7 +21,7 @@ if file:
     st.subheader("📊 Uploaded Data")
     st.dataframe(df)
 
-    # Function to compute distance between two coordinates using Haversine formula
+    # Compute distance between two coordinates using Haversine formula
     def haversine(lat1, lon1, lat2, lon2):
         R = 6371
         dlat = radians(lat2 - lat1)
